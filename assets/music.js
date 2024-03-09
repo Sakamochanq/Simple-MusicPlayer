@@ -33,6 +33,12 @@ const songsInfo = [
         musicName: '- Sahara -',
         artistName: 'Hensonn'
     },
+    {
+        src: './assets/pop/songs/Ding_Dong_Ku_Datang.mp3',
+        albumImage: './assets/pop/albums/Ding_Dong_Ku_Datang.png',
+        musicName: '- Ding Dong Ku Datang -',
+        artistName: 'Lullaby'
+    },
 ];
 
 //load song info
