@@ -27,6 +27,12 @@ const songsInfo = [
         musicName: '- Murderplot -',
         artistName: 'KORDHELL'
     },
+    {
+        src: './assets/pop/songs/Sahara.mp3',
+        albumImage: './assets/pop/albums/Sahara.png',
+        musicName: '- Sahara -',
+        artistName: 'Hensonn'
+    },
 ];
 
 //load song info
