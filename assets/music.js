@@ -39,6 +39,25 @@ const songsInfo = [
         musicName: '- Ding Dong Ku Datang -',
         artistName: 'Lullaby'
     },
+    {
+        src: './assets/pop/songs/20th_Century_Boy.mp3',
+        albumImage: './assets/pop/albums/20th_Century_Boy.png',
+        musicName: '- 20th Century Boy -',
+        artistName: 'T. Rex'
+    },
+    {
+        src: './assets/pop/songs/Ong_Chau_Oi.mp3',
+        albumImage: './assets/pop/albums/Ong_Chau_Oi.png',
+        musicName: '- Ong Chau Oi -',
+        artistName: 'Hoang'
+    },
+    {
+        src: './assets/pop/songs/Reze_Theme.mp3',
+        albumImage: './assets/pop/albums/Reze_Theme.png',
+        musicName: '- Reze Theme -',
+        artistName: 'Triple 7 Music'
+    },
+
 ];
 
 //load song info
