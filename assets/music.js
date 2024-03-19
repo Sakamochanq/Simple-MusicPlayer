@@ -34,10 +34,10 @@ const songsInfo = [
         artistName: 'Hensonn'
     },
     {
-        src: './assets/pop/songs/Ding_Dong_Ku_Datang.mp3',
-        albumImage: './assets/pop/albums/Ding_Dong_Ku_Datang.png',
-        musicName: '- Ding Dong Ku Datang -',
-        artistName: 'Lullaby'
+        src: './assets/pop/songs/Hide_and_Seek.mp3',
+        albumImage: './assets/pop/albums/Hide_and_Seek.png',
+        musicName: '- Hide and Seek -',
+        artistName: 'Ding Dong'
     },
     {
         src: './assets/pop/songs/20th_Century_Boy.mp3',
